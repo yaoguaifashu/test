@@ -1,7 +1,7 @@
 # This code is part of the Biopython distribution and governed by its
 # license.  Please see the LICENSE file that should have been included
 # as part of this package.
-#
+# Test for git
 
 """Deal with representations of Markov Models."""
 # standard modules
